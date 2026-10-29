@@ -1,0 +1,19 @@
+{
+  "name": "techstack",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kartlägger teknisk uppsättning (plattform, CMS, betalning, frakt m.m.) hos stora svenska e-handelssajter.",
+  "type": "module",
+  "scripts": {
+    "scan": "node src/scan.js",
+    "build": "node src/build.js",
+    "test": "node --test test/*.test.js",
+    "serve": "node src/serve.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.48.0"
+  }
+}
