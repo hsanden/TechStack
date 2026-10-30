@@ -1,1 +1,496 @@
-[]
+[
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "ginatricot.com",
+  "added": [],
+  "removed": [
+   "Triggerbee"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "na-kd.com",
+  "added": [],
+  "removed": [
+   "Klaviyo",
+   "Raygun",
+   "TikTok Pixel",
+   "Tradedoubler"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "boozt.com",
+  "added": [
+   "Sleeknote",
+   "Google Analytics",
+   "Microsoft Clarity",
+   "Impact",
+   "Snap Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "ellos.se",
+  "added": [],
+  "removed": [
+   "Bloomreach Engagement",
+   "Google Analytics",
+   "Mouseflow",
+   "Criteo",
+   "Impact",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "bubbleroom.se",
+  "added": [
+   "Apple Pay"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "bjornborg.com",
+  "added": [
+   "Zendesk"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "etonshirts.com",
+  "added": [
+   "Centra"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "mq.se",
+  "added": [],
+  "removed": [
+   "Triggerbee"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "danielwellington.com",
+  "added": [
+   "Google Ads"
+  ],
+  "removed": [
+   "Awin",
+   "Microsoft Ads",
+   "Tradedoubler"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "nk.se",
+  "added": [
+   "Google Analytics",
+   "Hotjar",
+   "Apprl",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "sellpy.se",
+  "added": [
+   "Google Analytics",
+   "Hotjar",
+   "Google Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "vinted.se",
+  "added": [
+   "Criteo"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "stayhard.se",
+  "added": [
+   "Awin"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "caliroots.com",
+  "added": [
+   "Awin"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "jdsports.se",
+  "added": [
+   "Awin",
+   "Google Ads",
+   "OneTrust"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "scorett.se",
+  "added": [
+   "Voyado",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "sinful.se",
+  "added": [
+   "Relewise",
+   "Google Analytics"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "apohem.se",
+  "added": [],
+  "removed": [
+   "Redeal",
+   "Voyado"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "clasohlson.com",
+  "added": [],
+  "removed": [
+   "Google Analytics",
+   "Google Ads"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "power.se",
+  "added": [
+   "Bloomreach Engagement",
+   "Voyado",
+   "Google Analytics",
+   "Google Ads",
+   "Meta Pixel",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "jysk.se",
+  "added": [],
+  "removed": [
+   "Meta Pixel"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "royaldesign.se",
+  "added": [
+   "Google Analytics"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "jotex.se",
+  "added": [],
+  "removed": [
+   "Bloomreach Engagement",
+   "Google Analytics",
+   "Mouseflow",
+   "Awin",
+   "Google Ads",
+   "Impact",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "nordicnest.se",
+  "added": [],
+  "removed": [
+   "Redeal",
+   "Voyado",
+   "Hotjar",
+   "Awin",
+   "Criteo",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "TikTok Pixel"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "hemtex.se",
+  "added": [
+   "Google Analytics"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "cervera.se",
+  "added": [
+   "Pinterest Tag"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "kitchentime.se",
+  "added": [],
+  "removed": [
+   "Redeal",
+   "Voyado",
+   "Google Analytics",
+   "Hotjar",
+   "Awin",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "TikTok Pixel"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "designtorget.se",
+  "added": [
+   "Google Analytics",
+   "Microsoft Clarity",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "golvpoolen.se",
+  "added": [
+   "Bubbi",
+   "Constructor.io",
+   "Redeal",
+   "Voyado",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Zendesk"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "hooks.se",
+  "added": [
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "xxl.se",
+  "added": [
+   "Google Analytics",
+   "Google Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "intersport.se",
+  "added": [
+   "Voyado",
+   "Google Analytics",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "sportamore.com",
+  "added": [
+   "Awin"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "sportson.se",
+  "added": [
+   "Triggerbee"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "mathem.se",
+  "added": [
+   "Meta Pixel",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "willys.se",
+  "added": [],
+  "removed": [
+   "Hotjar",
+   "Microsoft Clarity"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "linasmatkasse.se",
+  "added": [
+   "Google Analytics",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "TikTok Pixel",
+   "Intercom"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "bagarenochkocken.se",
+  "added": [
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "lekmer.se",
+  "added": [
+   "Google Analytics",
+   "Usercentrics"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "babyshop.com",
+  "added": [
+   "Emarsys",
+   "Voyado",
+   "Google Analytics",
+   "Hotjar",
+   "Awin",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "TikTok Pixel",
+   "Lipscore",
+   "Usercentrics"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "discshop.se",
+  "added": [
+   "Voyado"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "ifolor.se",
+  "added": [],
+  "removed": [
+   "Google Analytics",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "partykungen.se",
+  "added": [],
+  "removed": [
+   "Redeal",
+   "Meta Pixel",
+   "Pinterest Tag"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "blocket.se",
+  "added": [],
+  "removed": [
+   "Google Ads"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "temu.com",
+  "added": [
+   "Apple Pay",
+   "Google Pay",
+   "Walley"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "zoo.se",
+  "added": [],
+  "removed": [
+   "Google Ads"
+  ]
+ },
+ {
+  "date": "2026-10-30T12:10:59.775Z",
+  "domain": "nordgreen.com",
+  "added": [],
+  "removed": [
+   "Google Ads"
+  ]
+ }
+]
