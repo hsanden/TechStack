@@ -492,5 +492,274 @@
   "removed": [
    "Google Ads"
   ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "na-kd.com",
+  "added": [
+   "Klaviyo",
+   "Raygun",
+   "TikTok Pixel",
+   "Tradedoubler"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "ellos.se",
+  "added": [
+   "Bloomreach Engagement",
+   "Google Analytics",
+   "Mouseflow",
+   "Criteo",
+   "Impact",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "bjornborg.com",
+  "added": [
+   "Redeal",
+   "Voyado",
+   "Google Analytics",
+   "Hotjar",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "TikTok Pixel",
+   "Optimizely Web"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "nk.se",
+  "added": [],
+  "removed": [
+   "Google Analytics",
+   "Hotjar",
+   "Apprl",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "sellpy.se",
+  "added": [],
+  "removed": [
+   "Google Analytics",
+   "Hotjar",
+   "Google Ads"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "vinted.se",
+  "added": [],
+  "removed": [
+   "Criteo"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "bodystore.com",
+  "added": [
+   "Voyado"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "sinful.se",
+  "added": [],
+  "removed": [
+   "Relewise",
+   "Google Analytics"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "apohem.se",
+  "added": [],
+  "removed": [
+   "Google Ads",
+   "Flowbox"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "kjell.com",
+  "added": [
+   "Nets / Nexi",
+   "PayPal",
+   "Qliro",
+   "Walley"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "cyberphoto.se",
+  "added": [
+   "Optimizely"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "ljudochbild.se",
+  "added": [
+   "Adform"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "jysk.se",
+  "added": [
+   "Meta Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "royaldesign.se",
+  "added": [],
+  "removed": [
+   "Google Analytics",
+   "Apprl",
+   "Impact",
+   "Meta Pixel",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel",
+   "Trustpilot"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "jotex.se",
+  "added": [
+   "Bloomreach Engagement",
+   "Google Analytics",
+   "Mouseflow",
+   "Awin",
+   "Google Ads",
+   "Impact",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "furniturebox.se",
+  "added": [],
+  "removed": [
+   "Meta Pixel",
+   "Microsoft Ads"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "cervera.se",
+  "added": [],
+  "removed": [
+   "Pinterest Tag"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "bygghemma.se",
+  "added": [
+   "Bubbi",
+   "Constructor.io",
+   "Redeal",
+   "Voyado",
+   "Microsoft Clarity",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "linasmatkasse.se",
+  "added": [],
+  "removed": [
+   "Google Analytics",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "TikTok Pixel",
+   "Intercom"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "bagarenochkocken.se",
+  "added": [],
+  "removed": [
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "TikTok Pixel"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "lekia.se",
+  "added": [],
+  "removed": [
+   "Google Ads",
+   "Meta Pixel",
+   "ProfitMetrics"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "storochliten.se",
+  "added": [],
+  "removed": [
+   "Google Ads",
+   "Meta Pixel",
+   "ProfitMetrics"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "litenleker.se",
+  "added": [],
+  "removed": [
+   "Google Ads",
+   "Meta Pixel",
+   "ProfitMetrics"
+  ]
+ },
+ {
+  "date": "2026-11-02T11:27:55.686Z",
+  "domain": "ifolor.se",
+  "added": [
+   "Google Analytics",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads"
+  ],
+  "removed": []
  }
 ]
