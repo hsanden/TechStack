@@ -1475,5 +1475,328 @@
    "Microsoft Ads"
   ],
   "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "kappahl.com",
+  "added": [
+   "Contentsquare",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "na-kd.com",
+  "added": [],
+  "removed": [
+   "Klaviyo",
+   "Raygun",
+   "TikTok Pixel",
+   "Tradedoubler"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "filippa-k.com",
+  "added": [
+   "Centra",
+   "Sanity"
+  ],
+  "removed": [
+   "Salesforce Commerce Cloud",
+   "Klarna",
+   "Klaviyo",
+   "Apprl",
+   "Pinterest Tag",
+   "imbox"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "bjornborg.com",
+  "added": [
+   "Zendesk"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "jdsports.se",
+  "added": [
+   "Google Analytics"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "scorett.se",
+  "added": [
+   "Jetshop"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "eurosko.se",
+  "added": [
+   "Hotjar"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "clasohlson.com",
+  "added": [
+   "Swish"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "teknikdelar.se",
+  "added": [],
+  "removed": [
+   "Bubbi",
+   "Klaviyo",
+   "Google Ads",
+   "Meta Pixel"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "mio.se",
+  "added": [],
+  "removed": [
+   "Puzzel"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "jysk.se",
+  "added": [
+   "Adyen"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "royaldesign.se",
+  "added": [
+   "Google Analytics",
+   "Apprl",
+   "Impact",
+   "Meta Pixel",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel",
+   "Trustpilot"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "jotex.se",
+  "added": [
+   "Bloomreach Engagement",
+   "Google Analytics",
+   "Mouseflow",
+   "Awin",
+   "Google Ads",
+   "Impact",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "furniturebox.se",
+  "added": [
+   "Meta Pixel",
+   "Microsoft Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "nordicnest.se",
+  "added": [
+   "Bubbi",
+   "Contentsquare",
+   "Google Analytics",
+   "Freshworks"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "lagerhaus.se",
+  "added": [],
+  "removed": [
+   "Klarna"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "kitchentime.se",
+  "added": [],
+  "removed": [
+   "Redeal",
+   "Voyado",
+   "Google Analytics",
+   "Hotjar",
+   "Awin",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "TikTok Pixel"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "ilva.se",
+  "added": [
+   "Relewise"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "designtorget.se",
+  "added": [
+   "Google Analytics",
+   "Microsoft Clarity",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Pinterest Tag",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "bygghemma.se",
+  "added": [
+   "Bubbi",
+   "Constructor.io",
+   "Redeal",
+   "Voyado",
+   "Microsoft Clarity",
+   "Google Ads",
+   "Meta Pixel",
+   "Microsoft Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "hooks.se",
+  "added": [
+   "Meta Pixel",
+   "Microsoft Ads",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "intersport.se",
+  "added": [
+   "Voyado",
+   "Google Analytics",
+   "Meta Pixel",
+   "Microsoft Ads",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "sportson.se",
+  "added": [],
+  "removed": [
+   "Triggerbee",
+   "Voyado",
+   "Google Analytics",
+   "Microsoft Clarity",
+   "Meta Pixel",
+   "Microsoft Ads"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "mathem.se",
+  "added": [
+   "Meta Pixel",
+   "Snap Pixel",
+   "TikTok Pixel"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "delitea.se",
+  "added": [
+   "Redeal",
+   "Voyado",
+   "Google Analytics",
+   "Microsoft Clarity",
+   "Google Ads",
+   "Microsoft Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "zoo.se",
+  "added": [
+   "Google Ads"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "vetzoo.se",
+  "added": [],
+  "removed": [
+   "Google Analytics",
+   "Hotjar",
+   "Microsoft Clarity",
+   "Microsoft Ads"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "autodoc.se",
+  "added": [],
+  "removed": [
+   "Microsoft Ads"
+  ]
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "thansen.se",
+  "added": [
+   "Trengo"
+  ],
+  "removed": []
+ },
+ {
+  "date": "2026-11-23T13:07:37.801Z",
+  "domain": "bildelaronline24.se",
+  "added": [
+   "Google Analytics"
+  ],
+  "removed": []
  }
 ]
